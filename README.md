@@ -1,11 +1,27 @@
-Hi there 👋
+👋 Hi, I'm Bahram
 
-I'm Bahram.
+About Me
 
-I believe that growth comes from building, failing, learning, and building again. Every line of code is another step toward becoming a better version of myself.
+I believe growth is earned through building, failing, learning, and trying again. Every project is another step toward becoming a better engineer and a better thinker.
 
-I'm interested in software engineering, open source, and creating things that are useful, simple, and meaningful.
+I enjoy solving problems, exploring new ideas, and creating things that are useful, simple, and meaningful.
 
-I prefer progress over perfection and curiosity over comfort.
+What I'm Interested In
 
-Thanks for visiting my profile.
+- 💻 Software Engineering
+- 🌍 Open Source
+- 🚀 Building useful projects
+- 📚 Lifelong learning
+
+My Philosophy
+
+«Progress over perfection.
+Curiosity over comfort.»
+
+Looking Ahead
+
+I'm always learning, always building, and always looking for the next challenge.
+
+---
+
+"The journey matters as much as the destination."
